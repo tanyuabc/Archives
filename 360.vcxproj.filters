@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Generated Files\Debug">
+      <UniqueIdentifier>{8c991260-9d90-46d5-b632-412438ed936b}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Generated Files\Release">
+      <UniqueIdentifier>{aaa8ab95-a438-4675-a2ab-554adda9ae1d}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="contentwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mainwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mypushbutton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="skinwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="statuswidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sysbutton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="titlewidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="toolbutton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="toolwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_contentwidget.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_contentwidget.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_mainwidget.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_mainwidget.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_mypushbutton.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_mypushbutton.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_skinwidget.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_skinwidget.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_statuswidget.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_statuswidget.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_sysbutton.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_sysbutton.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_titlewidget.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_titlewidget.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_toolbutton.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_toolbutton.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_toolwidget.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_toolwidget.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\qrc_src.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="contentwidget.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="mainwidget.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="mypushbutton.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="skinwidget.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="statuswidget.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="sysbutton.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="titlewidget.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="toolbutton.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="toolwidget.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\sysButton\SkinButton.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\skin\angryBird.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\skin\angryBirdSmall.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\skin\blackPoint.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\skin\blackPointSmall.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\skin\blueSky.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\skin\blueSkySmall.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\skin\classic.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\skin\classicSmall.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\toolWidget\gongNeng.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\skin\greenWorld.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\skin\greenWorldSmall.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\toolWidget\jiaSu.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\logo.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\toolWidget\louDong.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\toolWidget\menZhen.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\toolWidget\muMa.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\skin\oldWood.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\skin\oldWoodSmall.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\skin\pinkLove.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\skin\pinkLoveSmall.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\toolWidget\qingLi.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\skin\redThunder.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\skin\redThunderSmall.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\toolWidget\ruanJian.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\skin\sixYears.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\skin\sixYearsSmall.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <CustomBuild Include="src.qrc">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <None Include="img\sysButton\sys_button_close.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\sysButton\sys_button_max.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\sysButton\sys_button_min.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\toolWidget\tiJian.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\sysButton\title_bar_menu.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="img\toolWidget\xiTong.png">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
